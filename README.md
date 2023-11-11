@@ -1,5 +1,8 @@
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=UnyLfqpyi94&list=RDUnyLfqpyi94&start_radio=1)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=UnyLfqpyi94&list=RDUnyLfqpyi94&start_radio=1">
+    <img src="https://github.com/NimithSan/nimithsan/blob/main/infinite_loop.gif" alt="Matrix SVG">
+  </a>
+</p>
 
 ###
 
