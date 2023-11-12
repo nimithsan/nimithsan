@@ -6,15 +6,15 @@
 
 ###
 
-<h1 align="center">San Nimith Here 👋</h1>
+<h1 align="center">San Nimith HERE 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  ABOUT ME</h3>
 
 ###
 
-<p align="left">Hello ! I'm human from earth 🌎 <br><br>- 🔭 I’m working as Android Developer<br>- 📚 I Love explore new Technology...<br>- ⚡ In my free time I code and code and code....</p>
+<p align="left">Hello ! I'm From SomeWhere on earth 🌎 <br><br>- 🔭 I’m working as Android Developer<br>- 📚 I Love explore new Technology...<br>- ⚡ In my free time I do coding and code and code....</p>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   GIT STATE :</h3>
 
 ###
 
