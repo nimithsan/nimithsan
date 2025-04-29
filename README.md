@@ -53,8 +53,6 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png" height="40" alt="Compose Desktop logo"  />
-  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/71742764?s=200&v=4" height="40" alt="Jetpack Compose logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React JS [Starter] logo"  />
